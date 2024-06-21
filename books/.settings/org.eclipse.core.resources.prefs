@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/com/sxt/dao/BookDao.java=UTF-8
+encoding//src/com/sxt/dao/HistoryDao.java=UTF-8
+encoding//src/com/sxt/dao/TypeDao.java=UTF-8
+encoding//src/com/sxt/dao/UserDao.java=UTF-8
+encoding//src/com/sxt/entity/BookDB.java=UTF-8
+encoding//src/com/sxt/entity/HistoryDB.java=UTF-8
+encoding//src/com/sxt/service/BookService.java=UTF-8
+encoding//src/com/sxt/utils/C3p0Tool.java=UTF-8
+encoding//src/com/sxt/utils/PageTool.java=UTF-8
+encoding//src/com/sxt/utils/PaginationUtils.java=UTF-8
+encoding//src/com/sxt/web/filter/LoginFilter.java=UTF-8
+encoding//src/com/sxt/web/servlet/BaseServlet.java=UTF-8
+encoding//src/com/sxt/web/servlet/BookServlet.java=UTF-8
+encoding//src/com/sxt/web/servlet/HistoryServlet.java=UTF-8
+encoding//src/com/sxt/web/servlet/TypeServlet.java=UTF-8
+encoding//src/com/sxt/web/servlet/UserServlet.java=UTF-8
